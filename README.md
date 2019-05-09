@@ -5,4 +5,4 @@ The assessment involved a dataset of loan performance. The task was to structure
 
 To reproduce the results, simply clone the repo, put the files in `data/` folder in the same directory where this notebooks lives and run the notebook.
 
-Time spent on this problem: `48 hours`
+Time spent on this problem: `36 hours`
